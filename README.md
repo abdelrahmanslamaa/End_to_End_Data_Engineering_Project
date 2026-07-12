@@ -53,6 +53,8 @@ Amazon S3
 - Data Cleaning
 - Data Modeling
 - Delta Lake
+- Incremental Processing
+
 
 <img width="20005" height="11129" alt="project_architecture" src="https://github.com/user-attachments/assets/1806a154-10e5-46e3-80db-4bee7bd57500" />
 <img width="835" height="455" alt="image" src="https://github.com/user-attachments/assets/b78f6fe1-e7d4-486e-bd94-84b72f8b36ec" />
@@ -60,6 +62,6 @@ Amazon S3
 
 
 
-- Incremental Processing
+
 - PySpark
 - Spark SQL
