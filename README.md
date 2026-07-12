@@ -54,14 +54,13 @@ Amazon S3
 - Data Modeling
 - Delta Lake
 - Incremental Processing
+- PySpark
+- Spark SQL
 
-
+---
 <img width="20005" height="11129" alt="project_architecture" src="https://github.com/user-attachments/assets/1806a154-10e5-46e3-80db-4bee7bd57500" />
 <img width="835" height="455" alt="image" src="https://github.com/user-attachments/assets/b78f6fe1-e7d4-486e-bd94-84b72f8b36ec" />
 <img width="1394" height="751" alt="image" src="https://github.com/user-attachments/assets/bd69b0af-da52-4014-a678-731851df3169" />
 
 
 
-
-- PySpark
-- Spark SQL
